@@ -1,0 +1,89 @@
+*{
+    padding: none;
+    margin: none;
+}
+
+body{
+    /* background-image: url(backgroundimage.jpg); */
+    background-image: url(logo.png);
+    background-size: cover;
+}
+
+.span{
+    color: aliceblue;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+}
+.span:hover{
+    border-radius: 20%;
+    background-color: rgb(242, 149, 27);
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    position: relative;
+    top:160px;
+    left: 28%;
+    border-radius: 50%;
+    background-image: url(logo2.JPG);
+    background-size: calc(80%);
+}
+.content{
+    border: 2px solid red;
+    width: 55rem;
+    justify-content: center;
+    position: relative;
+    left: 35rem;
+    top: 10rem;
+}
+.text{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d3d4d9;
+    box-shadow: 30rem;
+}
+#tt{
+    color:aqua;
+}
+.explore{
+    left: 30rem;
+    background-color: #4b88a2;
+    width: 10rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    left: 20rem;
+    border-radius: 30px;
+    font-weight: bolder;
+    background-color: #f90519;
+    font-size: x-large;
+}
+
+    .tag{
+    text-decoration: none;
+    color: beige;}
+
+.tag:hover{
+    background-color: #f905e9;
+    font-size: x-large;
+    color: beige;}
+
+
+.tag:active{
+    background-color: #2105f9;
+    font-size: x-large;
+    color: beige;
+
+}

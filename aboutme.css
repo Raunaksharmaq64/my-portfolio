@@ -1,0 +1,27 @@
+.about{
+    height: 70px;
+    width: 200%;
+    border:2px solid rgb(217, 255, 0);
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: aquamarine;
+    text-align: center;
+}
+.aboutme{
+    height: 3800px;
+    width: 90%;
+    position: relative;
+    left: 400px;
+}
+.text{
+    font-family: cursive;
+    font-weight: bolder;
+}
+#text-mdl{
+    color: rgb(255, 0, 204);
+}
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+}

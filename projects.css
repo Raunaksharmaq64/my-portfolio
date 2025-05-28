@@ -1,0 +1,33 @@
+.projects{
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.amazonimg:hover{
+    border: 5px solid rgb(248, 109, 3);
+}
+.amazonimg{
+    background-size: cover;
+    size: 20px;
+}
+.text{
+    color: red;
+    font-size: xxx-large;
+    font-family: monospace;
+    font-style: oblique;
+
+}
+.text:hover{
+    border: 2px solid black;
+}
+.discription1{
+
+    font-family: cursive;
+    font-weight: bold;
+    font-size: larger;
+}
